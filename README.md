@@ -1,9 +1,9 @@
 ## 메뉴머냐 - 강남 한식 뷔페 소개 앱
 메뉴머냐는 강남 한식 뷔페 위치와 메뉴를 손쉽게 탐색할 수 있는 앱 입니다.
 
-[App Store](https://apps.apple.com/kr/app/%EB%A9%94%EB%89%B4%EB%A8%B8%EB%83%90-%EA%B0%95%EB%82%A8-%ED%95%9C%EC%8B%9D-%EB%B7%94%ED%8E%98-%EB%A9%94%EB%89%B4%EB%A5%BC-%ED%95%9C-%EB%88%88%EC%97%90/id6448675881)
+2023.04~2023.06까지 2개월의 개발기간을 가졌고, 2024.08.23일에 앱스토어 서비스를 중단하였습니다. 
 
-* Swift, SwiftUI, Naver Map SDk
+* Swift, SwiftUI, Naver Map SDK
 
 <img src="https://github.com/MenuMonya/MenuMonya-iOS/assets/22342277/5d0acaae-b904-4074-ac17-1e039e9f7c36" width=400>
 
